@@ -13,7 +13,6 @@ I'm **Camille Gonsalves**, a **Front-end Developer**.
 ---
 
 ### ⭐ GitHub Stats:
-![CamilleGS's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamilleGS&theme=dark&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleGS&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
