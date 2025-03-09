@@ -1,4 +1,4 @@
-## Hi there 👋  
+## Hi there! I'm Camille 👋  
 
 I'm **Camille Gonsalves**, a **Front-end Developer**.  
 
