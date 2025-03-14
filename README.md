@@ -24,4 +24,4 @@ I'm **Camille Gonsalves**, a **Front-end Developer**.
 
 ---
 
-_*Matthew 19:26*_ ✨  
+_*Mt 6:33*_ ✨  
