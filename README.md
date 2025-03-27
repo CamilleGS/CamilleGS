@@ -1,8 +1,7 @@
 # Hi there!👋  I'm **Camille Gonsalves**, a **Front-end Developer**.  
 
-#### 📌 On my GitHub I document all my studies and projects here, from my first steps in programming to my current learning journey. Feel free to explore my repositories and follow my journey! 🚀
+#### 📌 On my GitHub I document all my studies and projects here, from my first steps in programming to my current learning journey. Feel free to explore my journey! 
 
----
 
 ## 🚀 Technologies I'm working with:  
 
