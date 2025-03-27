@@ -21,5 +21,6 @@ On my GitHub I document all my studies and projects, from my first steps in prog
 📧 E-mail: `camillegdsouza@gmail.com`  
 
 ---
+_PS: My GitHub pins are all organized from my latest study project to my oldest one._
 
-_*Mt 6:33*_ ✨  
+_**Mt 6:33**_ ✨  
