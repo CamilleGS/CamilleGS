@@ -2,7 +2,7 @@
 
 On my GitHub I document all my studies and projects, from my first steps in programming to my current learning stage. Feel free to explore my journey! 
 
-Click and see [My Portfolio](https://camillegs.github.io/portfolio/)
+Click and see [My Portfolio](https://camillegs.github.io/portfolio/) or open in another window https://camillegs.github.io/portfolio
 
 ## 🚀 Technologies I'm working with:  
 
