@@ -9,6 +9,8 @@ I'm currently a Front-end Developer working with my colleagues on Nutri-Honest, 
 
 You can check out our live system here: [NutriHonest](nutri-honest.vercel.app)
 
+<img src="nutrihonest.png">
+
 ## 🚀 Technologies I'm working with:  
 
 <br>
