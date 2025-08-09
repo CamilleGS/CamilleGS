@@ -4,6 +4,11 @@ On my GitHub I document all my studies and projects, from my first steps in prog
 
 Click and see [My Portfolio](https://camillegs.github.io/portfolio/) or open in another window https://camillegs.github.io/portfolio
 
+## 👩🏽‍💻 Experience in the Field: Nutri-Honest
+I'm currently a Front-end Developer working with my colleagues on Nutri-Honest, a real-world system with an existing client. In this role, I've used React and Styled Components to build key features like the registration and login pages. I also developed the anthropometric calculator, an exciting new feature we'll be launching soon.
+
+You can check out our live system here: [NutriHonest](nutri-honest.vercel.app)
+
 ## 🚀 Technologies I'm working with:  
 
 <br>
